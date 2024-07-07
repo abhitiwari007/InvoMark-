@@ -13,6 +13,5 @@ InvoMark is a Python-based project that implements a technique for embedding hid
 • Pillow: For handling and manipulating images
 # Installation
 1.Clone the repository:
-''''''
-git clone https://github.com/yourusername/invomark.git
-'''''''
+'''git clone https://github.com/yourusername/invomark.git'''
+
